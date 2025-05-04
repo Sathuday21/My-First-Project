@@ -1,2 +1,2 @@
-# My-First-Project
-My Project about Hand Written Digit Prediction
+# Hand_Written_Digit_Prediction
+
